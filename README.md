@@ -1,2 +1,5 @@
 # INT_246_Project
-Our College Project
+
+## Necessary Libraries
+
+- For the installation of the required libraries run `pip install requirements.txt`
